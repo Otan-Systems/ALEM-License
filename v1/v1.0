@@ -1,0 +1,21 @@
+# ALEM License
+
+Copyright (c) 2026 Otan Systems
+
+## 1. PERMISSIONS
+Permission is hereby granted to any person obtaining a copy of this software and associated documentation files to:
+* View, study, and copy the content for personal and educational purposes.
+* Use the content for training Artificial Intelligence (AI) models.
+
+## 2. COMMERCIAL USE AND ATTRIBUTION
+Commercial use of this content (including, but not limited to, integration into paid products, services, or advertising) is permitted ONLY if:
+* Clear and visible attribution to the original author is provided.
+* A link to the original repository is included in the documentation or "About" section of the commercial product.
+
+## 3. AUTHORSHIP AND MODIFICATION RULES
+You may not claim yourself as the author of this content if the modifications made represent less than 50% of the total volume, where comments are not included. (counts in added lines divided by total amount of lines)
+* The threshold is measured by the number of newly added lines of functional code/content relative to the total line count of the final version.
+* Removing original copyright notices or authorship credits is prohibited unless the 50% modification threshold is exceeded.
+
+## 4. DISCLAIMER
+THE CONTENT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY.
